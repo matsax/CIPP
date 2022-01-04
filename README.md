@@ -15,7 +15,8 @@
 <p align="center">
 
 ![OIT](assets/img/oitpsonsor_light.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![Genuine Technology Services](assets/img/Genuine-logo-vertical-light.png#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
+![Genuine Technology Services](assets/img/Genuine-logo-vertical-light.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Immybot](assets/img/Immybot.png)&nbsp;&nbsp;&nbsp;&nbsp;
 ![NinjaOne](assets/img/NinjaOne-Light.png#gh-dark-mode-only)
 ![NinjaOne](assets/img/NinjaOne-Dark.png#gh-light-mode-only)
 
@@ -29,7 +30,7 @@ This project is a way to help you with administration, with user management, and
 
 # Deployment and Getting Started
 
-If you want to self-host, check out the installation manual [here](https://kelvintegelaar.github.io/CIPP/GettingStarted/Installation.html). You will need some knowledge of Static Web Apps, Azure Functions, and Azure Keyvault
+If you want to self-host, check out the installation manual [here](https://cipp.app/GettingStarted/Installation/). You will need some knowledge of Static Web Apps, Azure Functions, and Azure Keyvault
 
 # Why are you making this?
 
@@ -151,7 +152,7 @@ If you decide to contribute; remember that keeping the portal fast is a key comp
 
 I'd like to give special thanks to the people that made this project possible;
 
-- [Kyle Hansloven](https://huntress.com) 
+- [Kyle Hanslovan](https://huntress.com) 
 - [Ray Orsini](https://oit.co)
 - The Team at [MSP.zone/MSP'R'Us](https://msp.zone)
 - Gavin Stone at [MSPGeek](https://mspgeek.org)
